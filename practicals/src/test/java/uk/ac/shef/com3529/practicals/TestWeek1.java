@@ -3,8 +3,8 @@ package uk.ac.shef.com3529.practicals;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
-import static uk.ac.shef.com3529.practicals.Week1.*;
-//import static uk.ac.shef.com3529.practicals.Week1Fixed.*;
+// import static uk.ac.shef.com3529.practicals.Week1.*;
+import static uk.ac.shef.com3529.practicals.Week1Fixed.*;
 
 public class TestWeek1 {
 
